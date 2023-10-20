@@ -44,8 +44,6 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 - [ ] 📕 storybook
 - [ ] 🙅 no documentation needed
 
-## [optional] Are there any post-deployment tasks we need to perform?
-
 
 <!-- note: PRs with deleted sections will be marked invalid -->
 
